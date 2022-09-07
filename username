@@ -1,0 +1,4 @@
+#!/bin/bash
+user="$(id -u -n)"
+uid="$(id -u)"
+echo "User name : $user"
